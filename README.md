@@ -1,0 +1,2 @@
+# WebService_jdk6
+WebService接口的jdk原生应用示例
